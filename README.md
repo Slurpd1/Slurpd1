@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Slurpd1
 - 👀 I’m interested in anything related to coding!
-- 🌱 I’m currently learning full-stack web development until I resume my computer science degree in september
-- 💞️ I’m looking to collaborate on anything! Give me a shout! Would love to build some networks of coders/
 
 
 <!---
